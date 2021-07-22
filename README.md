@@ -1,2 +1,2 @@
-# DataAnalytics
-This repository  contains Data Analysis Theory and Examples.
+# DataAnalytics and Machine Learning
+This repository contains Data Analysis and applying the Machine Learning Algorithm.
